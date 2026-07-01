@@ -1,2 +1,3 @@
-# ne-demo-akshit
-this is my fst git repo
+# new-demo-akshit
+this is my fst git rep
+auther - akshit
